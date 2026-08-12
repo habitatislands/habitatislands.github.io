@@ -30,7 +30,7 @@ header:
   Register Now
 </a>
 
-# Register for a meeting with special guest Dr Dilkina
+# Register for a meeting with special guest speaker Dr Dilkina
 
 Sign up for a one on one slot with guest speaker Dr Dilkina, Conservation AI expert. Dinner on the 27th and half hour slots on the 28th.
 Dr Dilkina speaks 27th August, 11am in Los Guayacanes Room, Gamboa Rainforest Resort. See our [workshop agenda](/agenda/) for other offerings!
