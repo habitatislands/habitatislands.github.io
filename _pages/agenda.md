@@ -215,10 +215,8 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
       <td>
         Open session <strong>Invited speaker</strong><br>
         <em>Dr Bistra Dilkina</em> (University of Southern California) — From Ecological Data to Conservation Decisions: 
-AI and Optimization for Biodiversity.
-
-        Dr Dilkina develops methods that combine discrete optimization and machine learning, and applies them to sustainability challenges like conservation, wildlife trafficking, infrastructure resilience, and health. Her conservation work covers corridor and reserve design, climate-aware planning, and field projects like Operation Pangolin
-
+AI and Optimization for Biodiversity.<br>
+        Dr Dilkina develops methods that combine discrete optimization and machine learning, and applies them to sustainability challenges like conservation, wildlife trafficking, infrastructure resilience, and health. Her conservation work covers corridor and reserve design, climate-aware planning, and field projects like Operation Pangolin.
       </td>
     </tr>
     <tr>
