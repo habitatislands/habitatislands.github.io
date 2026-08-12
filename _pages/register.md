@@ -9,7 +9,7 @@ header:
   caption: ""
 ---
 
-## Register for the Workshop 
+# Register for the Workshop 
 
 - There are a number of sessions open to STRI and Panamanian scientists. 
 - Please register so that we can accommodate your dietary needs.
@@ -29,3 +29,12 @@ header:
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScqNqTFGroWpGTPa0UrSCZkRDG3Rm5SCpbLuQmWdZFxvLo5fg/viewform?usp=header" class="btn btn--primary btn--large" target="_blank" rel="noopener noreferrer">
   Register Now
 </a>
+
+# Register for a meeting with special guest Dr Dilkina
+
+Sign up for a one on one slot with Dr Dilkina, Conservation AI expert.
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLScqNqTFGroWpGTPa0UrSCZkRDG3Rm5SCpbLuQmWdZFxvLo5fg/viewform?usp=header" class="btn btn--primary btn--large" target="_blank" rel="noopener noreferrer">
+  Register Now
+</a>
+
