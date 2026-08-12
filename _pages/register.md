@@ -32,7 +32,7 @@ header:
 
 # Register for a meeting with special guest Dr Dilkina
 
-Sign up for a one on one slot with Dr Dilkina, Conservation AI expert.
+Sign up for a one on one slot with Dr Dilkina, Conservation AI expert. 
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScqNqTFGroWpGTPa0UrSCZkRDG3Rm5SCpbLuQmWdZFxvLo5fg/viewform?usp=header" class="btn btn--primary btn--large" target="_blank" rel="noopener noreferrer">
   Register Now
