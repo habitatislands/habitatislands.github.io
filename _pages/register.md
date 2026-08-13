@@ -35,7 +35,7 @@ header:
 Sign up for a one on one slot with guest speaker Dr Dilkina, Conservation AI expert. Dinner on the 27th and half hour slots on the 28th.
 Dr Dilkina speaks 27th August, 11am in Los Guayacanes Room, Gamboa Rainforest Resort. See our [workshop agenda](/agenda/) for other offerings!
 
-<a href="https://docs.google.com/forms/d/e/1FAIpQLScqNqTFGroWpGTPa0UrSCZkRDG3Rm5SCpbLuQmWdZFxvLo5fg/viewform?usp=header" class="btn btn--primary btn--large" target="_blank" rel="noopener noreferrer">
+<a href="https://docs.google.com/spreadsheets/d/1Jv2WDaWCwPzsnFbbInAxZP2gZh9mDEaS1qHmH8cWYqA/edit?usp=sharing" class="btn btn--primary btn--large" target="_blank" rel="noopener noreferrer">
   Sign up!
 </a>
 
