@@ -9,6 +9,17 @@ header:
   caption: ""
 ---
 
+# Register for a meeting with special guest speaker Dr Dilkina
+
+Sign up for a one on one slot with guest speaker Dr Dilkina, Conservation AI expert. There is no deadline to register, but slots are on a first-come first-served basis! 
+
+Dr Dilkina speaks 27th August, 11am in Los Guayacanes Room, Gamboa Rainforest Resort. See our [workshop agenda](/agenda/) for other offerings! 
+
+<a href="https://docs.google.com/spreadsheets/d/1Jv2WDaWCwPzsnFbbInAxZP2gZh9mDEaS1qHmH8cWYqA/edit?usp=sharing" class="btn btn--primary btn--large" target="_blank" rel="noopener noreferrer">
+  Sign up!
+</a>
+
+
 # Register for the Workshop 
 
 - There are a number of sessions open to STRI and Panamanian scientists. 
@@ -30,12 +41,5 @@ header:
   Register Now
 </a>
 
-# Register for a meeting with special guest speaker Dr Dilkina
 
-Sign up for a one on one slot with guest speaker Dr Dilkina, Conservation AI expert. Dinner on the 27th and half hour slots on the 28th.
-Dr Dilkina speaks 27th August, 11am in Los Guayacanes Room, Gamboa Rainforest Resort. See our [workshop agenda](/agenda/) for other offerings!
-
-<a href="https://docs.google.com/spreadsheets/d/1Jv2WDaWCwPzsnFbbInAxZP2gZh9mDEaS1qHmH8cWYqA/edit?usp=sharing" class="btn btn--primary btn--large" target="_blank" rel="noopener noreferrer">
-  Sign up!
-</a>
 
