@@ -84,7 +84,7 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
       <td>
         <strong>Fragmentation Effects.</strong> Speakers:
         <ul>
-          <li><em>Peri BoltonBraun</em> (NMNH) — Bird species diversity in Bocas del Toro</li>
+          <li><em>Peri Bolton</em> (NMNH) — Bird species diversity in Bocas del Toro</li>
           <li><em>Sandra Galeano</em> (Instituto von Humboldt) — Leaf litter frog communities in Bocas del Toro</li>
           <li><em>Claudio Monteza</em> (INDICASAT and STRI) — Effects of fragmentation on mammal behavior</li>
           <li><em>Matt Hansen</em> (University of Maryland) — Remote sensing tropical forest fragmentation</li>
