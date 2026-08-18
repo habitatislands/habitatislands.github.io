@@ -68,7 +68,7 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
         <ul>
           <li><em>Rachel Collin</em> (STRI) — Bocas del Toro and STRI field station</li>
           <li><em>Mike Braun/Aaron O'Dea</em> (NMNH/STRI) — Geomorphic evolution of Bocas del Toro archipelago</li>
-          <li><em>Clyde Stephens</em> (Historian of Bocas del Toro) - Landuse history in past 200 years</li>  
+          <li><em>Clyde Stephens</em> (Historian of Bocas del Toro) - Outline of habitat loss in Bocas del Toro</li>  
           <li><em>Kira Long</em> (NZCBI) — Bocas del Toro province as a biogeographic suture zone</li>
           <li><em>Ana Spalding</em> (STRI) — Human Aspects of Bocas Del Toro</li>
           <li><em>Abel Batista</em> (Universidad Autónoma de Chiriquí)- Herpetofauna of Bocas del Toro</li>
