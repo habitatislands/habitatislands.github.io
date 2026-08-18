@@ -60,17 +60,19 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
       </ul>
       </td>
     </tr>
-    <tr><td>9:30 AM–12:00 PM</td><td><strong>Open session: Continental archipelagos as a model for eco-evolutionary impacts of habitat fragmentation (8 min talks + discussion)</strong></td></tr>
+    <tr><td>9:30 AM–12:00 PM</td><td><strong>Open session: Continental archipelagos as a model for eco-evolutionary impacts of habitat fragmentation (~5 min talks + discussion)</strong></td></tr>
     <tr>
       <td>9:30–10:30 AM</td>
       <td>
         <strong>System Overview.</strong> Speakers:
         <ul>
           <li><em>Rachel Collin</em> (STRI) — Bocas del Toro and STRI field station</li>
-          <li><em>Aaron O'Dea/Mike Braun</em> (STRI/NMNH) — Geomorphic evolution of Bocas del Toro archipelago</li>
+          <li><em>Mike Braun/Aaron O'Dea</em> (NMNH/STRI) — Geomorphic evolution of Bocas del Toro archipelago</li>
+          <li><em>Clyde Stephens</em> (Historian of Bocas del Toro) - Landuse history in past 200 years</li>  
           <li><em>Kira Long</em> (NZCBI) — Bocas del Toro province as a biogeographic suture zone</li>
           <li><em>Ana Spalding</em> (STRI) — Human Aspects of Bocas Del Toro</li>
-          <li><em>Peri Bolton/Mike Braun</em> (NMNH) — Bird species diversity in Bocas del Toro</li>
+          <li><em>Abel Batista</em> (Universidad Autónoma de Chiriquí)- Herpetofauna of Bocas del Toro</li>
+          <li><em>Raphael Samudio</em> (Sociedad Mastozoológica de Panamá) - Mammals of Escudo</li>
         </ul>
       </td>
     </tr>
@@ -82,11 +84,17 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
       <td>
         <strong>Fragmentation Effects.</strong> Speakers:
         <ul>
+          <li><em>Peri BoltonBraun</em> (NMNH) — Bird species diversity in Bocas del Toro</li>
           <li><em>Sandra Galeano</em> (Instituto von Humboldt) — Leaf litter frog communities in Bocas del Toro</li>
-          <li><em>Haw Chuan Lim</em> (George Mason University) — Fragmentation experiment in Borneo rainforests</li>
+          <li><em>Claudio Monteza</em> (INDICASAT and STRI) — Effects of fragmentation on mammal behavior</li>
           <li><em>Matt Hansen</em> (University of Maryland) — Remote sensing tropical forest fragmentation</li>
-          <li><em>Claudio Monteza</em> (STRI) — Animal movement in fragmented landscapes</li>
+          <li><em>Haw Chuan Lim</em> (George Mason University) — Fragmentation experiment in Borneo rainforests</li>
           <li><em>Sally Bornbusch</em> (NZCBI) — Islands within islands: animal microbiomes (video talk)</li>
+        </ul>
+        <strong>Adaptive Responses.</strong> Speakers:
+        <ul>
+          <li><em>Philip Johnson</em> (University of Maryland) — Genomics and adaptation of island manakins</li>
+          <li><em>Marco Gonzalez Santoro</em> (University of Pittsburgh — Richards-Zawacki Lab) — Evolution of colour polymorphism in Bocas del Toro</li>
         </ul>
       </td>
     </tr>
@@ -95,25 +103,25 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
     </tr>
     <tr><td>1:00–2:30 PM</td><td><strong>Talks continued &amp; discussion</strong> — segue into thematic framing</td></tr>
     <tr>
-      <td>1:00–1:40 PM</td>
+      <td>1:00–1:15 PM</td>
       <td>
-        <strong>Adaptive Responses.</strong> Speakers:
+        <strong>Adaptive Responses Continued</strong> Speakers:
         <ul>
-          <li><em>Philip Johnson</em> (University of Maryland) — Genomics and adaptation of island manakins</li>
-          <li><em>Marco Gonzalez Santoro</em> (University of Pittsburgh — Richards-Zawacki Lab) — Evolution of colour polymorphism in Bocas del Toro</li>
           <li><em>Michal Jezierski</em> (University of Birmingham) — Insular gigantism and island syndromes</li>
           <li><em>Aryeh Miller</em> (NMNH) — Adaptive responses to insularity in Caribbean <em>Anolis</em> lizards</li>
         </ul>
       </td>
     </tr>
     <tr>
-      <td>1:40–2:10 PM</td>
+      <td>1:15–2:10 PM</td>
       <td>
-        <strong>Forest Ecology.</strong> Speakers:
+        <strong>Forest Ecology and Restoration</strong> Speakers:
         <ul>
+          <li><em>Andy Jones</em> (Oregon State University/STRI) — EDGE-BCI genomics & ecology</li>
           <li><em>Melissa McCormick</em> (SERC) — Orchids, mangroves, and SERC overview</li>
-          <li><em>Andy Jones/Owen McMillan</em> (Oregon State University/STRI) — EDGE-BCI genomics/ecology</li>
-          <li><em>Jefferson Hall</em> (STRI) — Forest restoration</li>
+          <li><em>John Parker</em> (SERC) — Ecological networks</li>
+          <li><em>Jefferson Hall</em> (STRI) — Forest restoration & Agua Salud</li>
+          <li><em>Melissa Mazurkewicz</em> (STRI) — Bird Friendly Coffee</li>
         </ul>
       </td>
     </tr>
