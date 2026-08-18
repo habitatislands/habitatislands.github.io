@@ -25,14 +25,14 @@ Dr Dilkina speaks 27th August, 11am in Los Guayacanes Room, Gamboa Rainforest Re
 - There are a number of sessions open to STRI and Panamanian scientists. 
 - Please register so that we can accommodate your dietary needs.
 - Please consult the [agenda](/agenda/) prior to registering.
-- Please register before 13th August. 
+- Please register before 13th August. But if you only just find this now and want to come, please join us anyway!
 
 <br>
 
 - Hay varias sesiones abiertas a científicos de STRI y de Panamá, pero las sesiones se impartirán inglés.
 - Por favor, regístrese para que podamos acomodar sus necesidades dietéticas.
 - Por favor, consulte la agenda antes de registrarse.
-- Por favor, registrese antes del 13 de agosto.
+- Por favor, registrese antes del 13 de agosto. Pero si acabas de enterarte y quieres venir, ¡por favor, únete a nosotros de todos modos!
 
 
 
