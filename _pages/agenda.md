@@ -204,6 +204,7 @@ All sessions will in be in English and occur at the Gamboa Rainforest Resort in 
           <li>Stephanie Rios (OSP)</li>
           <li>Owen McMillan (STRI)</li>
           <li>Bistra Dilkina (USC)</li>
+          <li>Jeff Hall (STRI)</li>
         </ul>
         General Discussion:
         <ul>
